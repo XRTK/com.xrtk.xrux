@@ -1,9 +1,6 @@
 {
-    "name": "XRTK.ProjectName",
-    "references": [
-        "GUID:f3241d040533491e8a1e2714b27c3111"
-    ],
-    "optionalUnityReferences": [],
+    "name": "XRUX",
+    "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
@@ -11,5 +8,6 @@
     "precompiledReferences": [],
     "autoReferenced": true,
     "defineConstraints": [],
-    "versionDefines": []
+    "versionDefines": [],
+    "noEngineReferences": false
 }

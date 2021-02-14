@@ -1,7 +1,7 @@
 {
-  "name": "com.xrtk.projectname",
-  "displayName": "XRTK.ProjectName",
-  "description": "The ProjectName components for the Mixed Reality Toolkit.",
+  "name": "com.xrtk.xrux",
+  "displayName": "XRUX",
+  "description": "Mixed Reality User Experience Library for Unity",
   "keywords": [
     "xrtk",
     "vr",
@@ -10,17 +10,14 @@
     "mixed",
     "reality"
   ],
-  "version": "0.2.0",
+  "version": "0.1.0",
   "unity": "2019.4",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/XRTK/ProjectName.git"
+    "url": "git+https://github.com/XRTK/XRUX.git"
   },
   "author": "XRTK Team (https://github.com/XRTK)",
-  "dependencies": {
-    "com.xrtk.core": "0.2.7"
-  },
   "profiles": [
     {
       "displayName": "Default Profiles",

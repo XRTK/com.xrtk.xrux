@@ -36,7 +36,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.test-framework": {
-      "version": "1.1.20",
+      "version": "1.1.22",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -87,13 +87,11 @@
       },
       "url": "http://upm.xrtk.io:4873"
     },
-    "com.xrtk.projectname": {
-      "version": "file:com.xrtk.projectname",
+    "com.xrtk.xrux": {
+      "version": "file:com.xrtk.xrux",
       "depth": 0,
       "source": "embedded",
-      "dependencies": {
-        "com.xrtk.core": "0.2.7"
-      }
+      "dependencies": {}
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",
