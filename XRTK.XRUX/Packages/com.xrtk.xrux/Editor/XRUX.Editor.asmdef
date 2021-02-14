@@ -1,8 +1,6 @@
 {
     "name": "XRUX.Editor",
     "references": [
-        "GUID:f3241d040533491e8a1e2714b27c3111",
-        "GUID:e67d30660ec243e4836aac191d3f36fb",
         "GUID:46a95e59b9a413b4b81bfb96373856cd"
     ],
     "includePlatforms": [
