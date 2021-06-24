@@ -14,11 +14,14 @@ UnityGenerated/
 UnityPackageManager/
 .out/
 .gradle/
+artifacts/
+--Version/
+TextMesh Pro/
+TextMesh Pro.meta
 project.json
 project.lock.json
+*packages-lock.json
 *.package
-TextMesh Pro.meta
-TextMesh Pro/
 
 # ============ #
 # Certificates #
@@ -66,9 +69,7 @@ _ReSharper.Caches
 # ===================== #
 # Project Specific List #
 # ===================== #
-artifacts/
-ThirdParty/
-ThirdParty.meta
---Version/
+Assets/ThirdParty/
+Assets/ThirdParty.meta
 XRTK.XRUX/Assets/XRTK.Generated/XRUX
 XRTK.XRUX/Assets/XRTK.Generated/XRUX.meta
