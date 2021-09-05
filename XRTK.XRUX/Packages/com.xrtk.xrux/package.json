@@ -24,7 +24,6 @@
       "path": "Profiles~/"
     }
   ],
-  "unityRelease": "23f1",
   "dependencies": {
     "com.unity.textmeshpro": "2.1.6"
   }
