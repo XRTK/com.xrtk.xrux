@@ -5,23 +5,25 @@
 [Oo]bj/
 [Bb]in/
 [Bb]uilds/
+[Uu]serSettings/
 [Bb]uild/
 [Ll]ibrary/
 [Aa]pp/
+[Aa]pp.meta
+UserSettings/
 UWP/
 WindowsStoreApp/
 UnityGenerated/
 UnityPackageManager/
 .out/
 .gradle/
-artifacts/
---Version/
-TextMesh Pro/
-TextMesh Pro.meta
 project.json
 project.lock.json
-*packages-lock.json
 *.package
+TextMesh Pro.meta
+TextMesh Pro/
+UIElementsSchema/
+*packages-lock.json
 
 # ============ #
 # Certificates #
@@ -54,6 +56,7 @@ obj/
 *.log
 *.idb
 *.opendb
+*.vsconfig
 
 # ============================ #
 # Visual Studio Code Generated #
@@ -69,7 +72,7 @@ _ReSharper.Caches
 # ===================== #
 # Project Specific List #
 # ===================== #
-Assets/ThirdParty/
-Assets/ThirdParty.meta
-XRTK.XRUX/Assets/XRTK.Generated/XRUX
-XRTK.XRUX/Assets/XRTK.Generated/XRUX.meta
+artifacts/
+ThirdParty/
+ThirdParty.meta
+--Version/
